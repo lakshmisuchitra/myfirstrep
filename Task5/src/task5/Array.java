@@ -30,6 +30,7 @@ public class Array {
 				temp=result[i];
 				result[i]=result[j];
 				result[j]=temp;
+				System.out.println();
 			}
 			}}
 		System.out.print("\nAscending Order:");
